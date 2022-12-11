@@ -1,0 +1,76 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+702,Modern Latin America,Thomas E. Skidmore/Peter H. Smith,3.59,019517013X,9780195170139,en-US,528,234,11,10/7/2004,Oxford University Press  USA
+1327,Phaedrus,Plato/Robin Waterfield,3.92,0192802771,9780192802774,eng,128,29,6,1/16/2003,Oxford University Press  USA
+1479,Bakkhai,Euripides/Reginald Gibbons/Peter H. Burian,3.88,0195125983,9780195125986,eng,160,154,13,2/22/2001,Oxford University Press  USA
+1494,Alcestis,Euripides/William Arrowsmith,3.83,0195061667,9780195061666,eng,142,1950,95,2/1/1990,Oxford University Press  USA
+1499,Medea,Euripides/Georgia Ann Machemer/Michael   Collier,3.87,0195145666,9780195145663,eng,116,367,35,8/10/2006,Oxford University Press  USA
+1518,The Oresteia,Aeschylus/Alan Shapiro/Peter H. Burian,4.02,019513592X,9780195135923,eng,304,77,7,10/7/2004,Oxford University Press  USA
+1571,Clouds,Aristophanes/Kenneth James Dover,3.75,0199120099,9780199120093,eng,254,13,2,12/15/1969,Oxford University Press  USA
+1590,Peace,Aristophanes/S. Douglas Olson,3.60,0198140819,9780198140818,eng,408,262,13,2/25/1999,Oxford University Press  USA
+1703,Augustine: A Very Short Introduction,Henry Chadwick,3.71,0192854526,9780192854520,eng,144,236,33,6/7/2001,Oxford University Press  USA
+1761,Antigone,Sophocles/Reginald Gibbons/Charles Segal,3.64,0195143736,9780195143737,eng,208,264,14,6/5/2003,Oxford University Press  USA
+2034,Comoediae 1: Acharenses/Equites/Nubes/Vespae/Pax/Aves,Aristophanes/F.W. Hall/W.M. Geldart,5.00,0198145047,9780198145042,grc,364,0,0,2/22/1922,Oxford University Press  USA
+2155,Jane Austen's Letters,Jane Austen/Deirdre Le Faye,4.16,0192832972,9780192832979,eng,672,2278,69,4/3/1997,Oxford University Press  USA
+2404,Moby Dick: or The White Whale (Oxford Illustrated Classics),Geraldine McCaughrean/Victor G. Ambrus/Herman Melville,3.82,0192781537,9780192781536,eng,104,39,5,4/16/1998,Oxford University Press  USA
+2409,Moby Dick: Or  the White Whale (Oxford Illustrated Classics Series),Geraldine McCaughrean/Victor G. Ambrus/Herman Melville,3.82,019274156X,9780192741561,eng,102,6,0,4/3/1997,Oxford University Press  USA
+2586,Sun Tzu and the Art of Business: Six Strategic Principles for Managers,Sun Tzu/Mark McNeilly,3.89,0195137892,9780195137897,eng,272,125,13,4/1/2000,Oxford University Press  USA
+2705,Oxford Guides to Chaucer: The Canterbury Tales,Helen  Cooper,4.02,0198711557,9780198711551,eng,456,84,4,5/23/1996,Oxford University Press  USA
+2834,The Tragedy of Pudd'nhead Wilson/Those Extraordinary Twins,Mark Twain/David Lionel Smith/Sherley Anne Williams,3.79,0195114159,9780195114157,eng,512,3664,58,3/6/1997,Oxford University Press  USA
+3564,The Selected Journals Of L.M. Montgomery  Vol. 5: 1935-1942,L.M. Montgomery/Mary Henley Rubio/Elizabeth Hillman Waterston,4.24,0195421167,9780195421163,eng,410,184,22,11/4/2004,Oxford University Press  USA
+3787,Party Shoes (Shoes  #5),Noel Streatfeild,3.64,0192752537,9780192752536,en-US,243,430,33,9/1/2002,Oxford University Press  USA
+4251,Truth and Fiction in The Da Vinci Code: A Historian Reveals What We Really Know about Jesus  Mary Magdalene & Constantine,Bart D. Ehrman,3.64,0195307135,9780195307139,en-US,207,533,50,5/18/2006,Oxford University Press  USA
+4714,The Damned and the Beautiful: American Youth in the 1920's,Paula S. Fass,3.76,0195024923,9780195024920,spa,520,83,14,2/19/1978,Oxford University Press  USA
+4742,The Illustrated Art of War,Sun Tzu/Samuel B. Griffith,3.97,019518999X,9780195189995,eng,272,91,11,10/15/2005,Oxford University Press  USA
+5442,The Faiths of the Founding Fathers,David L. Holmes,3.89,0195300920,9780195300925,en-US,225,461,66,3/1/2006,Oxford University Press  USA
+6144,The Moonstone,Wilkie Collins/P.D. James,3.91,0192100289,9780192100283,eng,576,74,6,6/10/1999,Oxford University Press  USA
+6148,Ride of the Second Horseman: The Birth and Death of War,Robert L. O'Connell,4.29,0195119207,9780195119206,eng,320,13,0,10/19/1997,Oxford University Press  USA
+7011,A Midsummer Night's Dream,William Shakespeare/Roma Gill/B. Litt,3.94,0198321503,9780198321507,eng,102,126,7,7/28/2005,Oxford University Press  USA
+7015,A Midsummer Night's Dream,William Shakespeare/Roma Gill,3.94,0198320213,9780198320210,eng,99,14,3,8/15/2002,Oxford University Press  USA
+8506,Thomas Jefferson (Oxford Portraits),R.B. Bernstein,4.01,0195181301,9780195181302,eng,253,4245,133,9/15/2005,Oxford University Press  USA
+9125,The Picture of Dorian Gray,Oscar Wilde/Joseph Bristow,4.08,0192807293,9780192807298,eng,229,1089,78,11/1/2006,Oxford University Press  USA
+10270,Acts of God: The Unnatural History of Natural Disaster in America,Ted Steinberg,3.72,0195309685,9780195309683,eng,309,104,8,6/1/2006,Oxford University Press  USA
+12961,Much Ado about Nothing (Oxford School Shakespeare),William Shakespeare/Roma Gill,4.07,0198320566,9780198320562,eng,160,13,2,12/12/2002,Oxford University Press  USA
+13006,Julius Caesar,William Shakespeare/Roma Gill,3.68,0198320272,9780198320272,eng,128,138685,2595,10/17/2002,Oxford University Press  USA
+13423,Presocratic Philosophy: A Very Short Introduction,Catherine Osborne,3.58,0192840940,9780192840943,eng,144,205,24,9/16/2004,Oxford University Press  USA
+14705,Faust  Part One,Johann Wolfgang von Goethe/David  Luke,3.93,0192835955,9780192835956,en-US,240,1783,67,10/22/1998,Oxford University Press  USA
+14707,Faust  Part Two,Johann Wolfgang von Goethe/David  Luke,3.73,0192836366,9780192836366,eng,304,3560,87,7/22/1999,Oxford University Press  USA
+15651,Inferno (La Divina Commedia #1),Dante Alighieri/Ronald L. Martinez/Robert M. Durling/Robert Turner,4.00,0195087445,9780195087444,eng,672,468,50,3/6/1997,Oxford University Press  USA
+18546,King Lear,William Shakespeare/Stanley Wells,3.91,0192839926,9780192839923,eng,336,233,15,4/12/2001,Oxford University Press  USA
+18591,Hamlet (Oxford Bookworms Library: Stage 2),Alistair McCallum/William Shakespeare,3.89,0194232204,9780194232203,eng,54,164,6,10/1/2005,Oxford University Press  USA
+18959,El Libertador: Writings of Simón Bolívar,Simón Bolívar/Frederick H. Fornoff/David Bushnell,3.84,0195144813,9780195144819,eng,288,7,1,5/15/2003,Oxford University Press  USA
+19164,Purgatorio (La Divina Commedia #2),Dante Alighieri/Robert M. Durling,4.02,0195087453,9780195087451,ita,704,15675,244,4/8/2004,Oxford University Press  USA
+23257,The Great Philosophers: An Introduction to Western Philosophy,Bryan Magee/Myles Burnyeat/Martha C. Nussbaum/Anthony Kenny/Bernard Williams/Anthony Quinton/Michael  Ayres/John Passmore/Geoffrey Warnock/Peter Singer/Frederick Charles Copleston/J. P. Stern/Hubert L. Dreyfus/Sidney Morgenbesser/A.J. Ayer/John Rogers Searle,4.07,019289322X,9780192893222,eng,352,359,18,1/18/2001,Oxford University Press  USA
+23276,Taxation of Mineral Rents,Ross Garnaut,5.00,0198284543,9780198284543,eng,350,1,0,11/17/1983,Oxford University Press  USA
+23525,Norse Mythology: A Guide to the Gods  Heroes  Rituals  and Beliefs,John Lindow,4.11,0195153820,9780195153828,eng,365,1107,33,10/17/2002,Oxford University Press  USA
+24666,Tales of the Norse Gods,Barbara Leonie Picard/Rosamund Fowler,4.05,0192751166,9780192751164,en-GB,160,43,4,3/22/2001,Oxford University Press  USA
+27036,Augustine,Henry Chadwick,3.71,0192875345,9780192875341,eng,128,14,3,6/19/1986,Oxford University Press  USA
+28436,Strategies of Containment: A Critical Appraisal of American National Security Policy During the Cold War,John Lewis Gaddis,4.03,019517447X,9780195174472,en-US,484,552,26,7/1/2005,Oxford University Press  USA
+28457,First Love and Other Stories,Ivan Turgenev/Richard Freeborn,4.14,0192836897,9780192836892,eng,304,1245,26,10/28/1999,Oxford University Press  USA
+28929,American Legal History: Cases and Materials,Kermit L. Hall/Paul Finkelman/James W. Jr. Ely,3.50,0195162250,9780195162257,eng,736,31,0,10/1/2004,Oxford University Press  USA
+29990,Notebooks of the Mind: Explorations of Thinking  Revised Edition,Vera John-Steiner,3.83,0195108965,9780195108965,eng,288,17,1,1/23/1997,Oxford University Press  USA
+31247,A Christmas Carol and Other Christmas Books,Charles Dickens/Robert Douglas-Fairhurst,3.96,0192806947,9780192806949,eng,438,156,20,11/1/2007,Oxford University Press  USA
+31570,Curry: A Tale of Cooks and Conquerors,Lizzie Collingham,3.90,0195172418,9780195172416,eng,315,753,111,2/6/2006,Oxford University Press  USA
+31800,The Oxford Companion to Philosophy,Ted Honderich,4.15,0199264791,9780199264797,en-GB,1056,51,3,5/26/2005,Oxford University Press  USA
+31839,Philosophy of Mind: Classical and Contemporary Readings,David J. Chalmers,4.08,019514581X,9780195145816,eng,675,435,14,7/25/2002,Oxford University Press  USA
+31851,An Introduction to Political Philosophy,Jonathan Wolff,4.11,019929609X,9780199296095,eng,215,767,44,3/1/2006,Oxford University Press  USA
+31894,Ancient Philosophy,Anthony Kenny,3.98,0198752725,9780198752721,eng,341,260,20,11/30/2006,Oxford University Press  USA
+31911,Contemporary Political Philosophy,Will Kymlicka,4.00,0198782748,9780198782742,eng,512,594,17,10/25/2001,Oxford University Press  USA
+31917,The Oxford Handbook of Philosophy of Mathematics and Logic,Stewart Shapiro,4.25,0195325923,9780195325928,eng,832,19,1,3/1/2007,Oxford University Press  USA
+31929,The Philosophy of Biology,David L. Hull/Michael Ruse,3.89,0198752121,9780198752127,eng,784,14,3,8/27/1998,Oxford University Press  USA
+32080,Paul Revere's Ride,David Hackett Fischer,4.12,0195098315,9780195098310,eng,464,3907,208,4/19/1995,Oxford University Press  USA
+32082,The Great Wave: Price Revolutions and the Rhythm of History,David Hackett Fischer,3.97,019512121X,9780195121216,eng,552,204,33,11/11/1999,Oxford University Press  USA
+32083,Growing Old in America: The Bland-Lee Lectures Delivered at Clark University,David Hackett Fischer,4.06,0195023668,9780195023664,eng,252,17,1,4/1/1978,Oxford University Press  USA
+34069,Much Ado about Nothing,William Shakespeare/Roma Gill,4.07,0198321473,9780198321477,eng,160,37,5,12/2/2004,Oxford University Press  USA
+35100,Battle Cry of Freedom,James M. McPherson,4.35,019516895X,9780195168952,eng,867,23112,992,12/11/2003,Oxford University Press  USA
+36438,Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression,Frederick K. Goodwin/Kay Redfield Jamison,4.40,0195135792,9780195135794,en-GB,1262,107,3,3/1/2007,Oxford University Press  USA
+36489,Justice Oliver Wendell Holmes: Law and the Inner Self,G. Edward White,3.67,0195101286,9780195101287,eng,648,17,2,12/19/1995,Oxford University Press  USA
+36706,The Oxford Dictionary of Quotations,Elizabeth Knowles,4.20,0198601735,9780198601739,en-US,1536,37,2,11/25/1999,Oxford University Press  USA
+37539,Egyptian Myth: A Very Short Introduction,Geraldine Pinch,3.61,0192803468,9780192803467,eng,143,189,18,7/8/2004,Oxford University Press  USA
+39001,Power  Sex  Suicide: Mitochondria and the Meaning of Life,Nick Lane,4.24,0199205647,9780199205646,eng,354,2221,151,12/1/2006,Oxford University Press  USA
+40023,The Hound of the Baskervilles,Patrick Nobes/Arthur Conan Doyle/Jennifer Bassett/Tricia Hedge,3.91,019423035X,9780194230353,eng,105,136,11,9/12/2000,Oxford University Press  USA
+41863,The Origins of Life: From the Birth of Life to the Origin of Language,John Maynard Smith/Eörs Szathmáry,4.13,019286209X,9780192862099,eng,192,43,3,11/26/2000,Oxford University Press  USA
+43037,The Call of the Wild  White Fang and Other Stories,Jack London,3.99,0192835149,9780192835147,eng,400,18720,192,8/20/1998,Oxford University Press  USA
+43177,Brown V. Board of Education: A Civil Rights Milestone and Its Troubled Legacy,James T. Patterson,3.85,0195156323,9780195156324,eng,320,159,24,12/12/2002,Oxford University Press  USA
+43228,The Meaning of Life,Terry Eagleton,3.50,0199210705,9780199210701,en-GB,187,755,94,5/1/2007,Oxford University Press  USA
+44034,Masters of Small Worlds: Yeoman Households  Gender Relations  and the Political Culture of the Antebellum South Carolina Low Country,Stephanie McCurry,3.69,0195117956,9780195117950,eng,344,98,6,11/1/1997,Oxford University Press  USA
+45206,Miss or Mrs?/ The Haunted Hotel/ The Guilty River,Wilkie Collins/Norman Page/Toru Sasaki,3.79,0192833073,9780192833075,eng,360,175,14,5/13/1999,Oxford University Press  USA

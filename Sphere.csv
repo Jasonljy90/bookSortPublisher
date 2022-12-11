@@ -1,0 +1,5 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+11263,The Shrouded Walls,Susan Howatch,3.40,0751533939,9780751533934,eng,224,305,31,12/31/2010,Sphere
+21505,The Secrets of Harry Bright,Joseph Wambaugh,3.76,0722189141,9780722189146,eng,307,605,26,5/7/1987,Sphere
+33817,Spencerville,Nelson DeMille,3.67,0751531243,9780751531244,eng,564,49,6,3/1/2008,Sphere
+33824,The Talbot Odyssey,Nelson DeMille,3.85,0751531200,9780751531206,eng,640,28,1,11/2/2000,Sphere

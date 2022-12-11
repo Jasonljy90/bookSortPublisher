@@ -1,0 +1,59 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+400,Libra,Don DeLillo,3.99,0140156046,9780140156041,eng,480,11857,564,5/1/1991,Penguin
+1548,Electra and Other Plays,Sophocles/E.F. Watling,4.14,0140440283,9780140440287,eng,218,135,9,4/30/1953,Penguin
+1715,Metamorphoses,Ovid/David Raeburn/Denis Feeney,4.05,014044789X,9780140447897,eng,723,48223,764,8/3/2004,Penguin
+1879,The History of Sexuality  Volume 1: The Will to Knowledge,Michel Foucault/Robert Hurley,4.04,0140268685,9780140268683,eng,168,313,27,10/29/1998,Penguin
+1883,The History of Sexuality  Volume 2: The Use of Pleasure,Michel Foucault/Robert Hurley,4.08,0140137343,9780140137347,eng,304,51,2,7/30/1998,Penguin
+2071,Freedom Evolves,Daniel C. Dennett,3.83,0142003840,9780142003848,eng,368,2324,88,1/27/2004,Penguin
+2222,The Feeling Good Handbook,David D. Burns,4.00,0452281326,9780452281325,eng,729,4797,124,10/28/1999,Penguin
+2899,The Pigeon,Patrick Süskind,3.68,0140105832,9780140105834,eng,77,6254,423,6/29/1989,Penguin
+3758,Casino Royale (James Bond  #1),Ian Fleming,3.73,014200202X,9780142002025,eng,181,48961,2823,8/27/2002,Penguin
+4104,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,3.93,0713997273,9780713997279,eng,278,832,118,1/11/2005,Penguin
+4207,White Teeth,Zadie Smith,3.77,0140297782,9780140297782,en-GB,542,1265,142,11/30/2000,Penguin
+4273,About a Boy,Nick Hornby,3.80,0141007338,9780141007335,eng,278,825,73,4/4/2002,Penguin
+5306,Travels with Charley: In Search of America,John Steinbeck,4.08,0142000701,9780142000700,eng,214,56349,3738,2/5/2002,Penguin
+5368,Forever Amber,Kathleen Winsor,3.99,0141009829,9780141009827,eng,972,14409,849,7/25/2002,Penguin
+6180,The Monkey's Wrench,Primo Levi/William Weaver/Ruth Feldman/Ruth Tenzer Feldman,3.92,0140188924,9780140188929,eng,192,601,34,7/1/1995,Penguin
+6628,The Big Over Easy (Nursery Crime  #1),Jasper Fforde,3.94,0143037234,9780143037231,eng,383,27137,1885,7/25/2006,Penguin
+6658,When the Emperor Was Divine,Julie Otsuka,3.73,0141009055,9780141009056,en-US,160,180,27,1/12/2004,Penguin
+7144,Crime and Punishment,Fyodor Dostoyevsky/David McDuff,4.21,0143058142,9780143058144,eng,671,483122,10265,12/31/2002,Penguin
+7733,Gulliver's Travels,Jonathan Swift/Robert DeMaria Jr.,3.57,0141439491,9780141439495,eng,306,194738,3485,1/30/2003,Penguin
+10210,Jane Eyre,Charlotte Brontë/Michael Mason,4.12,0142437204,9780142437209,eng,532,1409369,27884,2/4/2003,Penguin
+10801,The Big Rock Candy Mountain,Wallace Stegner,4.15,0140139397,9780140139396,eng,563,6187,669,3/1/1991,Penguin
+11045,The Spectator Bird,Wallace Stegner,3.99,0140139400,9780140139402,eng,214,4808,550,11/1/1990,Penguin
+11231,Existentialists and Mystics: Writings on Philosophy and Literature,Iris Murdoch/George Steiner/Peter J. Conradi,4.10,0140264922,9780140264920,eng,576,184,18,7/1/1999,Penguin
+12398,Europe Central,William T. Vollmann,3.92,0143036599,9780143036593,en-US,811,2121,247,12/1/2005,Penguin
+12545,Stiff: The Curious Lives of Human Cadavers,Mary Roach,4.06,0141007451,9780141007458,eng,304,1029,188,7/1/2004,Penguin
+12651,The Social Contract,Jean-Jacques Rousseau/Maurice Cranston,3.77,0143037498,9780143037491,eng,168,29090,451,5/30/2006,Penguin
+13529,March,Geraldine Brooks,3.75,0143036661,9780143036661,eng,280,49145,5344,1/31/2006,Penguin
+14016,Difficult Conversations: How to Discuss What Matters Most,Bruce Patton/Douglas Stone/Sheila Heen,4.09,014027782X,9780140277821,en-US,250,61,9,5/25/2000,Penguin
+14258,English Passengers,Matthew Kneale,4.06,0140285210,9780140285215,en-GB,462,537,65,4/26/2001,Penguin
+14905,The Complete Novels,Jane Austen,4.55,0140259449,9780140259445,eng,1344,21633,351,6/17/1996,Penguin
+14981,Labyrinths: Selected Stories and Other Writings,Jorge Luis Borges/James E. Irby/Donald A. Yates/André Maurois,4.46,0141184841,9780141184845,eng,287,934,82,9/28/2000,Penguin
+15708,The Plague,Albert Camus/Robin Buss,3.98,0141185139,9780141185132,eng,238,975,80,12/5/2002,Penguin
+17018,Notes on a Scandal,Zoë Heller,3.71,0141012250,9780141012254,eng,244,1154,149,3/4/2004,Penguin
+18310,Thus Spake Zarathustra: A Book for All and None,Friedrich Nietzsche,4.06,1406947199,9781406947199,eng,356,275,20,11/3/2006,Penguin
+18802,Finding Time Again (In Search of Lost Time #7),Marcel Proust/Ian Patterson/Christopher Prendergast,4.49,0141180366,9780141180366,eng,374,181,43,10/2/2003,Penguin
+19409,The Christians and the Fall of Rome (Great Ideas),Edward Gibbon,3.56,0143036246,9780143036241,en-US,96,217,20,9/6/2005,Penguin
+21075,Citizens: A Chronicle of the French Revolution,Simon Schama,3.99,0141017279,9780141017273,en-GB,825,90,12,8/5/2004,Penguin
+22434,The Fabric of the Cosmos: Space  Time and the Texture of Reality,Brian Greene,4.11,0141011114,9780141011110,en-US,592,340,22,2/24/2005,Penguin
+22896,Practical Magic (Practical Magic #1),Alice Hoffman,3.78,0425190374,9780425190371,eng,286,54261,4232,8/5/2003,Penguin
+23423,The Consolations of Philosophy,Alain de Botton,4.01,0140276610,9780140276619,eng,272,763,70,3/1/2001,Penguin
+23940,Junky,William S. Burroughs/Oliver  Harris/Allen Ginsberg,3.83,0142003166,9780142003169,eng,208,47105,1052,4/1/2003,Penguin
+24147,How to Build a Time Machine,Paul Davies,3.82,0141005343,9780141005348,eng,148,67,9,7/2/2002,Penguin
+25869,Shahnameh: The Persian Book of Kings,Abolqasem Ferdowsi/Dick Davis/Azar Nafisi,4.51,0143104934,9780143104933,eng,886,246,21,3/1/2007,Penguin
+26904,For Lust of Knowing: The Orientalists and Their Enemies,Robert Irwin,3.72,0140289232,9780140289237,eng,304,10,0,1/25/2007,Penguin
+27347,Under the Sea Wind (Nature Classic),Rachel Carson/Bob Hines,4.14,0140253807,9780140253801,eng,320,18,4,4/1/1996,Penguin
+28645,You Shall Know Our Velocity,Dave Eggers,3.63,0141013451,9780141013459,eng,350,266,24,4/1/2004,Penguin
+29718,The Confusions of Young Törless,Robert Musil/Shaun Whiteside/J.M. Coetzee,3.73,0142180009,9780142180006,eng,176,4374,179,9/27/2001,Penguin
+30491,The Communist Manifesto (Great Ideas),Karl Marx/Gareth Stedman Jones/Friedrich Engels,3.55,014303751X,9780143037514,en-US,128,251,13,5/30/2006,Penguin
+30557,Shooting an Elephant,George Orwell,4.12,0141187395,9780141187396,eng,368,7029,255,6/5/2003,Penguin
+30969,Voice of the Violin (Inspector Montalbano  #4),Andrea Camilleri/Stephen Sartarelli,4.03,0142004456,9780142004456,eng,249,3907,254,6/29/2004,Penguin
+31102,Straight Talking,Jane Green,3.64,0141011513,9780141011516,en-GB,304,234,12,9/5/2002,Penguin
+35710,Margot Fonteyn,Meredith Daneman,4.03,0140165304,9780140165302,eng,704,256,17,8/4/2005,Penguin
+39582,The Anglo-Saxons,James Campbell/Eric John/Patrick Wormald,4.04,0140143955,9780140143959,eng,272,550,28,3/28/1991,Penguin
+40199,How to Breathe Underwater,Julie Orringer,3.96,014101508X,9780141015088,eng,222,194,34,4/7/2005,Penguin
+41815,Asimov's New Guide to Science,Isaac Asimov,4.38,0140172130,9780140172133,eng,896,49,1,5/27/1993,Penguin
+44215,I Should Be Extremely Happy in Your Company: A Novel of Lewis and Clark,Brian Hall,3.35,0142003719,9780142003718,en-US,432,339,76,12/30/2003,Penguin
+45046,Mansfield Park,Jane Austen,3.86,0140620664,9780140620665,eng,479,505,54,5/26/1994,Penguin
+45530,Montaillou: Cathars and Catholics in a French Village 1294-1324,Emmanuel Le Roy Ladurie/Barbara Bray,3.96,0140137009,9780140137002,eng,400,80,14,12/5/2002,Penguin

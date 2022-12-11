@@ -1,0 +1,43 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+5805,V for Vendetta,Alan Moore/David   Lloyd,4.25,1401207928,9781401207922,eng,296,234954,4058,11/1/2005,Vertigo
+14498,Neil Gaiman's Neverwhere,Mike Carey/Glenn Fabry/Neil Gaiman,4.24,1401210074,9781401210076,eng,224,33858,569,2/14/2007,Vertigo
+17727,The Books of Magic,Neil Gaiman/John Bolton/Scott Hampton/Charles Vess/Paul Johnson/Roger Zelazny,4.08,1563890828,9781563890826,eng,200,13850,481,4/14/1993,Vertigo
+21322,Fables: 1001 Nights of Snowfall,Bill Willingham/Esao Andrews/John Bolton/Mark Buckingham/James Jean/Derek Kirk Kim/Tara  McPherson/Jill Thompson/Mark Wheatley/Michael Wm. Kaluta/Charles Vess/Brian Bolland,4.14,1401203671,9781401203672,eng,140,13759,538,10/18/2006,Vertigo
+21324,Fables  Vol. 8: Wolves,Bill Willingham/Mark Buckingham/Steve Leialoha/Shawn McManus/Andrew Pepoy,4.27,1401210015,9781401210014,eng,160,18799,568,12/20/2006,Vertigo
+21325,Fables  Vol. 4: March of the Wooden Soldiers,Bill Willingham/Mark Buckingham/Craig Hamilton/Steve Leialoha/P. Craig Russell,4.29,1401202225,9781401202224,eng,231,26055,785,11/30/2004,Vertigo
+21326,Fables  Vol. 1: Legends in Exile,Bill Willingham/Terry Moore/Mike Allred/Lan Medina/Mark Buckingham/Matthew Sturges/Steve Leialoha/Craig Hamilton/Russ Braun/James Jean/Tony Akins/Eric Shanower/Shawn McManus/Jae Lee/Chrissie Zullo/David Petersen,3.97,1563899426,9781563899423,eng,128,119292,2866,12/31/2002,Vertigo
+21327,Fables  Vol. 7: Arabian Nights (and Days),Bill Willingham/Mark Buckingham/Steve Leialoha/Jim Fern/Jimmy Palmiotti/Andrew Pepoy,4.09,1401210007,9781401210007,eng,143,15575,547,7/5/2006,Vertigo
+21328,Fables  Vol. 6: Homelands,Bill Willingham/David Hahn/Mark Buckingham/Lan Medina/Steve Leialoha,4.28,1401205003,9781401205003,eng,190,21472,637,1/27/2006,Vertigo
+21329,Fables  Vol. 3: Storybook Love,Bill Willingham/Bryan Talbot/Lan Medina/Mark Buckingham/Linda Medley/Steve Leialoha/James Jean,4.13,140120256X,9781401202569,eng,190,32814,906,5/1/2004,Vertigo
+21330,Fables  Vol. 5: The Mean Seasons,Bill Willingham/Mark Buckingham/Steve Leialoha/Tony Akins/Jimmy Palmiotti,4.19,1401204864,9781401204860,eng,166,20703,611,4/30/2005,Vertigo
+21341,Jack of Fables  Vol. 1: The (Nearly) Great Escape,Bill Willingham/Matthew Sturges/Tony Akins/Andrew Pepoy,3.58,1401212220,9781401212223,eng,128,4372,271,2/28/2007,Vertigo
+22339,Death: The Time of Your Life (Death of the Endless  #2),Neil Gaiman/Chris Bachalo/Mark Buckingham/Mark Pennington/Claire Danes,4.22,1563893339,9781563893339,eng,95,12377,198,12/1/1997,Vertigo
+22348,The Mystery Play,Grant Morrison/Jon J. Muth,3.44,1563891891,9781563891892,en-US,80,688,40,8/1/1995,Vertigo
+22350,Kid Eternity,Grant Morrison/Duncan Fegredo,3.41,1401209335,9781401209339,eng,144,693,44,2/1/2006,Vertigo
+22355,Doom Patrol  Vol. 1: Crawling from the Wreckage (Doom Patrol  #1),Grant Morrison/Richard Case/Doug Braithwaite/Scott Hanna/Carlos Garzon/John Nyberg,4.08,1563890348,9781563890345,eng,192,5447,235,4/17/2000,Vertigo
+22356,The Filth,Grant Morrison/Chris Weston/Gary Erskine,3.75,1401200133,9781401200138,en-US,320,3907,266,6/1/2004,Vertigo
+22360,Doom Patrol  Vol. 5: Magic Bus,Grant Morrison/Richard Case/Ken Steacy/Stan Woch/Philip Bond/Mark McKenna/Scott Hanna,4.27,1401212026,9781401212025,eng,203,1363,52,4/1/2007,Vertigo
+22390,Doom Patrol  Vol. 4: Musclebound,Grant Morrison/Richard Case/Mike Dringenberg/Mark McKenna/Jamie Hewlett/Steve Yeowell/Rian Hughes,4.15,1401209998,9781401209995,eng,256,2322,77,8/30/2006,Vertigo
+22398,The Invisibles  Vol. 3: Entropy in the U.K.,Grant Morrison/Phil Jimenez/John Stokes/Tommy Lee Edwards/Paul Johnson/Steve Yeowell/Dick Giordano/Mark Buckingham/Mark Pennington,4.21,1563897288,9781563897283,en-US,232,4084,86,8/1/2001,Vertigo
+22401,The Invisibles  Vol. 4: Bloody Hell in America,Grant Morrison/Phil Jimenez/John Stokes,4.17,1563894440,9781563894442,en-US,104,3882,74,2/1/1998,Vertigo
+22409,The Invisibles  Vol. 5: Counting to None,Grant Morrison/Phil Jimenez/John Stokes,4.19,1563894890,9781563894893,en-US,240,4270,67,3/1/1999,Vertigo
+22417,Transmetropolitan  Vol. 2: Lust for Life,Warren Ellis/Darick Robertson,4.34,1563894815,9781563894817,eng,208,15496,281,2/1/1999,Vertigo
+22418,Transmetropolitan  Vol. 3: Year of the Bastard,Warren Ellis/Darick Robertson/Rodney Ramos,4.41,1563895684,9781563895685,eng,144,13360,193,9/1/1999,Vertigo
+22420,Transmetropolitan  Vol. 5: Lonely City,Warren Ellis/Darick Robertson/Rodney Ramos/Patrick Stewart,4.41,1563897229,9781563897221,eng,144,11372,146,7/1/2001,Vertigo
+22421,Transmetropolitan  Vol. 4: The New Scum,Warren Ellis/Darick Robertson/Rodney Ramos/Keith Akin,4.39,1563896273,9781563896279,eng,133,13331,146,9/1/2000,Vertigo
+22423,Transmetropolitan  Vol. 8: Dirge,Warren Ellis/Darick Robertson/Rodney Ramos,4.47,1563899531,9781563899539,eng,140,9963,90,4/1/2003,Vertigo
+22424,Transmetropolitan  Vol. 10: One More Time,Warren Ellis/Darick Robertson/Rodney Ramos,4.51,1401202179,9781401202170,eng,144,10308,184,6/1/2004,Vertigo
+22425,Transmetropolitan  Vol. 9: The Cure,Warren Ellis/Darick Robertson/Rodney Ramos,4.44,1563899884,9781563899881,eng,144,10331,90,12/1/2003,Vertigo
+22426,Transmetropolitan  Vol. 7: Spider's Thrash,Warren Ellis/Darick Robertson/Rodney Ramos/Darren Aronofsky,4.32,1563898942,9781563898945,eng,144,12633,88,11/1/2002,Vertigo
+23753,The Absolute Sandman  Volume One,Neil Gaiman/Mike Dringenberg/Chris Bachalo/Michael Zulli/Kelly Jones/Charles Vess/Colleen Doran/Malcolm Jones III/Steve Parkhouse/Daniel Vozzo/Lee Loughridge/Steve Oliff/Todd Klein/Dave McKean/Sam Kieth,4.65,1401210821,9781401210823,eng,612,15640,512,11/1/2006,Vertigo
+23754,Preludes & Nocturnes (The Sandman  #1),Neil Gaiman/Sam Kieth/Mike Dringenberg/Malcolm Jones III/Todd Klein/Karen  Berger,4.24,1563892278,9781563892271,eng,233,171841,3781,12/1/1998,Vertigo
+25099,The Doll's House (The Sandman  #2),Neil Gaiman/Steve Parkhouse/Chris Bachalo/Michael Zulli/Mike Dringenberg/Malcolm Jones III/Todd Klein/Clive Barker,4.44,1563892251,9781563892257,eng,232,63599,1518,3/10/1999,Vertigo
+25101,Season of Mists (The Sandman  #4),Neil Gaiman/Matt Wagner/George Pratt/Dick Giordano/Kelley Jones/P. Craig Russell/Mike Dringenberg/Malcolm Jones III/Todd Klein/Harlan Ellison,4.54,1563890356,9781563890352,eng,217,50951,1038,3/10/1999,Vertigo
+25102,A Game of You (The Sandman  #5),Neil Gaiman/Shawn McManus/Colleen Doran/Bryan Talbot/George Pratt/Stan Woch/Dick Giordano/Todd Klein,4.43,1563890933,9781563890932,eng,192,43065,876,3/10/1999,Vertigo
+25103,World's End (The Sandman  #8),Neil Gaiman/Mike Allred/Gary Amaro/Mark Buckingham/David Giordano/Tony Harris/Steve Leialoha/Vince Locke/Shea Anton Pensa/Alec Stevens/Bryan Talbot/John Watkiss/Todd Klein/Michael Zulli/Stephen King,4.47,1563891700,9781563891700,eng,160,36629,675,7/16/1999,Vertigo
+25104,The Wake (The Sandman  #10),Neil Gaiman/Michael Zulli/Jon J. Muth/Charles Vess/Mikal Gilmore,4.52,1563892871,9781563892875,eng,191,37038,767,9/3/1999,Vertigo
+30094,Michael Moorcock's Multiverse,Michael Moorcock/Walter Simonson/Mark Reeve/John Ridgway,3.94,1563895161,9781563895166,eng,288,170,10,11/1/1999,Vertigo
+30206,Loveless  Vol. 1: A Kin of Homecoming,Brian Azzarello/Marcelo Frusín,3.32,1401210619,9781401210618,eng,128,516,52,5/1/2006,Vertigo
+43554,The Quitter,Harvey Pekar/Dean Haspiel,3.60,1401204007,9781401204006,en-US,104,1318,125,9/6/2006,Vertigo
+43562,American Splendor: Another Day,Harvey Pekar/Ty Templeton/Eddie Campbell/Hilary Barta,3.71,1401212352,9781401212353,en-US,136,349,28,4/7/2007,Vertigo
+43723,Hellblazer: Setting Sun,Warren Ellis/Frank Teran/Tim Bradstreet/Javier Pulido/James Romberger/Marcelo Frusín,4.20,1401202454,9781401202453,en-GB,96,2583,35,10/1/2004,Vertigo

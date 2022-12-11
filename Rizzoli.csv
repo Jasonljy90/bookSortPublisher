@@ -1,0 +1,5 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+10505,History of Beauty,Umberto Eco/Girolamo De Michele/Alastair McEwen/Agnolo di Cosimo Bronzino,3.78,0847826465,9780847826469,eng,432,47625,186,11/13/2004,Rizzoli
+12375,Tom Ford,Graydon Carter/Tom Ford/Anna Wintour/Bridget Foley,4.47,0847826694,9780847826698,eng,416,182,11,11/4/2008,Rizzoli
+13916,Il genio dei numeri,Sylvia Nasar/Carlo Capararo/Sergio Mancini/Roberta Zuppet,4.13,8817128716,9788817128711,ita,442,45,5,2/1/2002,Rizzoli
+32625,Visions of Heaven and Hell,Clive Barker,4.32,0847827372,9780847827374,eng,352,661,20,9/27/2005,Rizzoli

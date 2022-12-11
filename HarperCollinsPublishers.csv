@@ -1,0 +1,4 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+24178,Charlotte's Web,E.B. White/Garth Williams/Rosemary Wells,4.17,0064410935,9780064410939,eng,184,1300470,14739,10/1/2001,HarperCollinsPublishers
+28854,The Book of Lost Tales  Part Two (The History of Middle-earth  #2),J.R.R. Tolkien/Christopher Tolkien,3.86,0261102141,9780261102149,eng,385,203,12,5/7/2002,HarperCollinsPublishers
+32275,River Out of Eden: A Darwinian View of Life,Richard Dawkins/Lalla Ward,3.98,0465069908,9780465069903,en-US,172,5891,192,8/23/1996,HarperCollinsPublishers

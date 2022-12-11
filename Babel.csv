@@ -1,0 +1,4 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+14131,Mao II,Don DeLillo/Marianne Véron,3.68,2742735402,9782742735402,fre,278,10,1,10/27/2001,Babel
+24789,Libra,Don DeLillo/Michel Courtois-Fourcy,3.99,2742731105,9782742731107,fre,656,8,1,1/1/2001,Babel
+26922,Affliction,Russell Banks/Pierre Furlan,3.99,2742722807,9782742722808,fre,486,63,1,12/29/1999,Babel

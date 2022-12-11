@@ -1,0 +1,5 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+5843,The Career Programmer: Guerilla Tactics for an Imperfect World (Expert's Voice),Christopher   Duncan,3.13,1590596242,9781590596241,en-US,264,37,7,2/1/2006,Apress
+19780,Complete Guide to OneNote,W. Frederick Zimmerman/Chris Pratley,4.25,1590592166,9781590592168,eng,412,4,0,11/17/2003,Apress
+40543,Beginning PHP and MySQL 5: From Novice to Professional,W. Jason Gilmore,3.72,1590595521,9781590595527,en-US,913,158,12,10/1/2005,Apress
+41786,Joel on Software,Joel Spolsky,4.11,1590593898,9781590593899,eng,384,2981,118,10/28/2004,Apress

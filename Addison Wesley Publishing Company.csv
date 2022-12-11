@@ -1,0 +1,6 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+5358,The Firm,Robin Waterfield/John Grisham,4.01,0582418275,9780582418271,eng,76,540910,3378,2/15/2000,Addison Wesley Publishing Company
+5545,The Feynman Lectures on Physics  3 Vols,Richard P. Feynman/Robert B. Leighton/Matthew L. Sands,4.60,0201500647,9780201500646,en-US,3,78,7,1/1/1989,Addison Wesley Publishing Company
+5770,The Design and Implementation of the 4.3BSD UNIX Operating System,Samuel J. Leffler/Marshall Kirk McKusick/Michael J. Karels,4.26,0201061961,9780201061963,eng,471,27,2,6/1/1989,Addison Wesley Publishing Company
+17280,The Feynman Lectures on Physics Vol 3,Richard P. Feynman/Robert B. Leighton/Matthew L. Sands,4.63,0805390499,9780805390490,eng,384,716,15,9/1/2005,Addison Wesley Publishing Company
+27843,Data Structures and Algorithm Analysis in C++,Mark Allen Weiss,3.87,032144146X,9780321441461,eng,586,155,8,2/1/2006,Addison Wesley Publishing Company

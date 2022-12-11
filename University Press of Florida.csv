@@ -1,0 +1,4 @@
+bookID title authors average_rating isbn isbn13 language_code  num_pages ratings_count text_reviews_count publication_date publisher
+9223,Teaching Classical Ballet,John               White,4.47,081301395X,9780813013954,eng,200,15,1,4/20/1996,University Press of Florida
+37651,Holding On to the Air,Suzanne Farrell/Toni Bentley,4.09,0813025931,9780813025933,eng,352,524,40,9/25/2002,University Press of Florida
+43132,Winter Season: A Dancer's Journal,Toni Bentley,3.92,0813027055,9780813027050,en-US,168,425,39,11/10/2003,University Press of Florida
