@@ -27,7 +27,6 @@ public class Main {
               ArrayList<String> bookInfo = new ArrayList<String>();
               bookInfo = bookList.get(publisher);
               bookInfo.add(line);
-              bookList.put(publisher, bookInfo);
               }else{
                 ArrayList<String> bookInfo = new ArrayList<String>();
                 bookInfo.add(line);
