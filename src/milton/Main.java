@@ -23,11 +23,10 @@ public class Main {
             publisher = bookArray[bookArray.length - 1];
             publisher = publisher.replace('/', ' ');
             
-            if (bookList.containsKey(publisher)){
-              ArrayList<String> bookInfo = new ArrayList<String>();
-              bookInfo = bookList.get(publisher);
-              bookInfo.add(line);
-              }else{
+            if (bookList.containsKey(publisher)){ // if booklist already contain publisher(Key) where bookInfo(Value) stores the books of that publisher, get memory address of the ArrayList 
+              ArrayList<String> bookInfo = bookList.get(publisher);
+              bookInfo.add(line); // add new book info to the ArrayList
+              }else{ // if booklist does not contain publisher, create a new Arraylist to store the bookinfo. Then put the Arraylist to the map.
                 ArrayList<String> bookInfo = new ArrayList<String>();
                 bookInfo.add(line);
                 bookList.put(publisher, bookInfo);
